@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 1em;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+main {
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 0.5em 1em;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#styledElement {
+    padding: 1em;
+    margin-top: 1em;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+#container {
+    margin-top: 1em;
+    border: 1px dashed #aaa;
+    padding: 1em;
+}
+
+.new-element {
+    background-color: lightblue;
+    padding: 0.5em;
+    margin: 0.5em 0;
+    border-radius: 3px;
+}
